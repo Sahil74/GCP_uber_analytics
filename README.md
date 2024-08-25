@@ -24,3 +24,7 @@
 - Access to Google Cloud Platform (GCP) with BigQuery and Cloud Storage enabled.
 - Mage AI account for building the ETL pipeline.
 - Looker Studio for data visualization.
+
+## Visulization
+
+[View the Project Documentation](./Uber_data_viz.pdf)
